@@ -1,6 +1,23 @@
 // index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Author: Rani Yeh
+// Date: 4/25/2024
+
+// Variables
+
+make = "Toyota";
+model = "Corolla";
+color = "silver";
+year = 2016;
+
+age = 2024 - year;
+
+// Output
+
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model + "<br>");
+document.writeln("Color: " + color + "<br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + " years<br>");
 
 // Constants
 
