@@ -1,0 +1,6 @@
+.special {
+    background-color: rgb(139, 139, 234);
+    border: dotted 10px rgb(24, 11, 169);
+    color: pink;
+    font-weight: bold;
+}
